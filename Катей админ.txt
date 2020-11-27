@@ -359,7 +359,7 @@ local Devs = {
 	["iTzP3ngu"] = "Reporter",
 	["wiktorjano"] = "Moderator Trainee",
 	["epicbtleg"] = "Moderator Trainee",
-	["Placeholder"] = "?",
+	["Der_Killer1234Xx"] = "The Twitch streamer "Farty"",
 	
 }
 
